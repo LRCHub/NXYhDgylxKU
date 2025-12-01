@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "花の塔（Flower Tower） - さユり // covered by 松永依織&七海うらら",
+  "base_artist": "Iori Matsunaga",
+  "createdAt": "2025-12-01T10:00:51.605537Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_01_花の塔_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_02_花の塔_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_03_花の塔_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_04_花の塔_さユり.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "花の塔",
+      "artist": "さユり",
+      "has_synced": false,
+      "path": "select/pl_05_花の塔_さユり.txt"
+    }
+  ]
+}
